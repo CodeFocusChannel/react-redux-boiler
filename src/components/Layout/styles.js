@@ -8,7 +8,7 @@ export const SPage = styled.main`
     @media ${b.sm} {
         padding: ${v.lgSpacing};
     }
-    @media ${v.lg} {
+    @media ${b.lg} {
         padding: ${v.lgSpacing} ${v.mdSpacing};
         margin: 0 auto;
         width: 100%;
