@@ -1,6 +1,6 @@
 # React Redux (reduxtoolkit) boilerplate
 
-A boiler plate for react and reduxtoolit projects
+A boiler plate for react and reduxtoolkit projects
 
 ## CodeFocus Channel
 
